@@ -2,7 +2,6 @@
 layout: default
 title: AISP
 nav_order: 1
-parent: Resources and Data Models
 ---
 
 # AISP Resources and Data Models - v3.1.2
