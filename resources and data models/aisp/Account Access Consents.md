@@ -163,11 +163,14 @@ And response to:
 
 #### Data Dictionary
 
+**OBReadConsentResponse1** 
+OBReadConsentResponse1/Data/ConsentId 
+Unique identification as assigned to identify the account access consent resource. 
+
+_Max128Text_
+
 | Name |Occurrence |XPath |EnhancedDefinition |Class |Codes |
 | --- |--- |--- |--- |--- |--- |
-| OBReadConsentResponse1 | |OBReadConsentResponse1 | |OBReadConsentResponse1 | |
-| Data |1..1 |OBReadConsentResponse1/Data | |OBReadDataConsentResponse1 | |
-| ConsentId |1..1 |OBReadConsentResponse1/Data/ConsentId |Unique identification as assigned to identify the account access consent resource. |Max128Text | |
 | CreationDateTime |1..1 |OBReadConsentResponse1/Data/CreationDateTime |Date and time at which the resource was created. |ISODateTime | |
 | Status |1..1 |OBReadConsentResponse1/Data/Status |Specifies the status of consent resource in code form. |OBExternalRequestStatus1Code |Authorised AwaitingAuthorisation Rejected Revoked |
 | StatusUpdateDateTime |1..1 |OBReadConsentResponse1/Data/StatusUpdateDateTime |Date and time at which the resource status was updated. |ISODateTime | |
