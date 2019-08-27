@@ -1,3 +1,13 @@
+```yaml
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+permalink: /docs/ui-components
+---
+```
+
 # Open Banking Read-Write API - Resources and Data Models
 
 * [AISP](aisp/README.md)
