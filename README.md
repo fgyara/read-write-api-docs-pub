@@ -12,7 +12,9 @@ The key difference between the CMA Order and PSD2/RTS requirements relate to whi
 
 ## Contents
 [Profiles](./profiles/README.md)
+
 [Resources & Data Models](./resources%20and%20data%20models/README.md)
+
 [References](./references/README.md)
 
 
