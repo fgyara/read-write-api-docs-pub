@@ -1,12 +1,10 @@
-```yaml
 ---
 layout: default
-title: UI Components
-nav_order: 2
+title: Resources & Data Models
+nav_order: 1
 has_children: true
-permalink: /docs/ui-components
+permalink: /resources and data models
 ---
-```
 
 # Open Banking Read-Write API - Resources and Data Models
 
