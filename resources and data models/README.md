@@ -1,9 +1,4 @@
----
-layout: default
-title: Resources & Data Models
-nav_order: 1
-has_children: true
----
+
 
 # Open Banking Read-Write API - Resources and Data Models
 
