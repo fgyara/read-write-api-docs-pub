@@ -11,9 +11,9 @@ This specification should be read in conjunction with the Customer Experience Gu
 The key difference between the CMA Order and PSD2/RTS requirements relate to which product types are implemented, and the timing for implementation. For example, the CMA Order requires the CMA9 to implement the standard for PCA and BCA accounts earlier (in some cases) than the PSD2/RTS timelines. The timings are defined in the Open Banking Roadmap (https://www.openbanking.org.uk/wp-content/uploads/Open-Banking-Revised-Roadmap-July-2018.pdf).
 
 ## Contents
-Profiles (./profiles)
-Resources & Data Models (./resources%20and%20data%20models)
-References (./references)
+[Profiles] (./profiles)
+[Resources & Data Models] (./resources%20and%20data%20models)
+[References] (./references)
 
 
 ## Known Issues
